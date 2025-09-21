@@ -1,6 +1,5 @@
 package com.email.writter;
 
-import lombok.Data;
 
 
 public class EmailRequest {
